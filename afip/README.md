@@ -8,4 +8,5 @@ El siguiente listado corresponde a los inscriptos al curso:
 * [Ariel Cacho Mendoza](alumno-cacho-mendoza.ariel/)
 * [Cosme Fulanito](alumno-fulanito.cosme/)
 * [Mariano Absatz](alumno-absatz.mariano/)
+* [Daniel Velardez](alumno-velardez.daniel/)
 * [Alejandro Francolino](alumno.francolino.alejandro/)
