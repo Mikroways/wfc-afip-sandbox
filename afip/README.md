@@ -11,3 +11,4 @@ El siguiente listado corresponde a los inscriptos al curso:
 * [Daniel Velardez](alumno-velardez.daniel/)
 * [Alejandro Francolino](alumno.francolino.alejandro/)
 * [Diego Bosco](alumno-bosco.diego/)
+* [Escalera Omar](alumno-escalera.omar/)
