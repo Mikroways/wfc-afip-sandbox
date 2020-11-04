@@ -13,3 +13,4 @@ El siguiente listado corresponde a los inscriptos al curso:
 * [Diego Bosco](alumno-bosco.diego/)
 * [Escalera Omar](alumno-escalera.omar/)
 * [Lasca Gabriel](alumno-lasca.gabriel/)
+* [Garberi Juan](alumno-garberi.juan/)
