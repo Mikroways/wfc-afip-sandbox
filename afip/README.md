@@ -14,4 +14,6 @@ El siguiente listado corresponde a los inscriptos al curso:
 * [Escalera Omar](alumno-escalera.omar/)
 * [Lasca Gabriel](alumno-lasca.gabriel/)
 * [Garberi Juan](alumno-garberi.juan/)
+* [García Fernando](alumno-garcia.fernando/)
+
 * [Rey Carlos](alumno-rey.carlos/)
