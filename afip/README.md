@@ -17,3 +17,4 @@ El siguiente listado corresponde a los inscriptos al curso:
 * [García Fernando](alumno-garcia.fernando/)
 * [Rey Carlos](alumno-rey.carlos/)
 * [Manuel Mandeb](alumno-mandeb.manuel/)
+* [Gustavo Zalazar](alumno-gustavo.zalazar/)
