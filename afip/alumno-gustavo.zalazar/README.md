@@ -2,7 +2,11 @@
 
 ## Resumen
 
-Ingeniero en Informática. 
+Ingeniero en Informática.
+
+## Tecnologías
+
+PHP, MySQL, Postgres, JavaScript, JSON, AJAX, JQuery, XML, HTML, Scrum, XP, Nginx, memcached, SolR, RabbitMQ, Docker. 
 
 ## Más información
 
