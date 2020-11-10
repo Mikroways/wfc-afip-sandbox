@@ -19,3 +19,4 @@ El siguiente listado corresponde a los inscriptos al curso:
 * [Manuel Mandeb](alumno-mandeb.manuel/)
 * [Gustavo Zalazar](alumno-gustavo.zalazar/)
 * [Sergio Caffoz](alumno-caffoz.sergio/)
+* [Gerardo Fisanotti](alumno-fisanotti.gerardo/)
