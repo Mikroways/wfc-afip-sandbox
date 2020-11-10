@@ -18,3 +18,4 @@ El siguiente listado corresponde a los inscriptos al curso:
 * [Rey Carlos](alumno-rey.carlos/)
 * [Manuel Mandeb](alumno-mandeb.manuel/)
 * [Gustavo Zalazar](alumno-gustavo.zalazar/)
+* [Sergio Caffoz](alumno-caffoz.sergio/)
