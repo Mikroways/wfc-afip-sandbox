@@ -20,3 +20,4 @@ El siguiente listado corresponde a los inscriptos al curso:
 * [Gustavo Zalazar](alumno-gustavo.zalazar/)
 * [Sergio Caffoz](alumno-caffoz.sergio/)
 * [Gerardo Fisanotti](alumno-fisanotti.gerardo/)
+* [Mario Gonzalez](alumno-gonzalez.mario/)
